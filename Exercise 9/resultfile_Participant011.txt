@@ -1,0 +1,6 @@
+subID	 imageCondition	 trial	 imageFile	 CoordinateX	 CoordinateY	 RT
+Participant011	images	3	Easy1.jpg	1061.000000	371.000000	45.962332
+ Participant011	images	2	Cluttered2.jpg	1624.000000	323.000000	5.555739
+ Participant011	images	4	Easy2.jpg	1406.000000	356.000000	11.121873
+ Participant011	images	1	Cluttered1.jpg	1406.000000	356.000000	0.000000
+ 
