@@ -20,8 +20,7 @@ Prime = [];
 fCount = 0;
 pCount = 0;
 for a = 1:100
-    if mod(6, a) == 0 %I didn't know if I should calculate numbers divisible by 6 or factors of 6, 
-                      %but name of the array suggested factors
+    if mod(6, a) == 0 
         fCount = fCount + 1;
         FactorOf6(fCount) = a;
     end
