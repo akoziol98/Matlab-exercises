@@ -52,7 +52,7 @@ sortrows(tabulate(A), 3, 'descend')
 % Calculating values greater than or equal 6
 A = [4 6 1 5 9 13];
 x = A >= 6;
-total_number = sum(x(x == 1));
+total_number = sum(x);
 
 % Calculating non-NaN values
 reaction_times = [0.45 NaN 0.23 0.60 NaN 0.34 0.89 0.94];
